@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://dgps7by5s2r5a"]
+
+[ext_resource type="PackedScene" uid="uid://bpe0f1jb3m826" path="res://Scenes/mob2.tscn" id="1_h5js2"]
+
+[node name="Node2DMob" type="Node2D" unique_id=1288881837]
+
+[node name="Mob" parent="." unique_id=450592903 instance=ExtResource("1_h5js2")]
