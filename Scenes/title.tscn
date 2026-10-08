@@ -1,10 +1,10 @@
 [gd_scene format=3 uid="uid://belv02hme78ur"]
 
-[ext_resource type="Script" uid="uid://cu06s6n4d6n7u" path="res://Scenes/title.gd" id="1_2qdx2"]
+[ext_resource type="Script" uid="uid://cu06s6n4d6n7u" path="res://Scenes/Script/title.gd" id="1_2qdx2"]
 [ext_resource type="Texture2D" uid="uid://bj71nfgmxioub" path="res://Assets/Art/BG_01.png" id="1_ekrfg"]
-[ext_resource type="Texture2D" uid="uid://c2meglxo36opx" path="res://Assets/Scroll_01.png" id="2_fp2oq"]
-[ext_resource type="Texture2D" uid="uid://bbrf6olk2p66w" path="res://Assets/Game Title Logo_transp.png" id="2_yosvi"]
-[ext_resource type="Texture2D" uid="uid://bgar686bob2kb" path="res://Assets/Alexia_Schweitzer_text.png" id="3_fp2oq"]
+[ext_resource type="Texture2D" uid="uid://c2meglxo36opx" path="res://Assets/Art/Scroll_01.png" id="2_fp2oq"]
+[ext_resource type="Texture2D" uid="uid://bbrf6olk2p66w" path="res://Assets/Art/Game Title Logo_transp.png" id="2_yosvi"]
+[ext_resource type="Texture2D" uid="uid://bgar686bob2kb" path="res://Assets/Art/Alexia_Schweitzer_text.png" id="3_fp2oq"]
 [ext_resource type="Texture2D" uid="uid://x5w0idw8sx4e" path="res://Assets/Art/Scroll_02.png" id="4_q2qps"]
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_yu0ss"]

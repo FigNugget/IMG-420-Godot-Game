@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://blbvqvwu7i8x0"]
 
-[ext_resource type="Script" uid="uid://fxesjobnql1v" path="res://Scenes/Level/player.gd" id="1_mhe8w"]
+[ext_resource type="Script" uid="uid://fxesjobnql1v" path="res://Scenes/Script/player.gd" id="1_mhe8w"]
 [ext_resource type="Texture2D" uid="uid://djp6jwlan3fwh" path="res://Assets/Character/1 Pink_Monster/Pink_Monster_Idle_4.png" id="2_x6gc5"]
 [ext_resource type="Texture2D" uid="uid://cxbf1fbsxkg7d" path="res://Assets/Character/1 Pink_Monster/Pink_Monster_Jump_8.png" id="3_uco0n"]
 [ext_resource type="Texture2D" uid="uid://bxe8c3i3ev1lt" path="res://Assets/Character/1 Pink_Monster/Pink_Monster_Walk_6.png" id="4_irfk4"]

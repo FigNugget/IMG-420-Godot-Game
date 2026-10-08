@@ -17,8 +17,8 @@ config/icon="res://icon.svg"
 
 [autoload]
 
-EventController="*uid://blcewjsdksr0h"
-GameController="*uid://8gm2tm5g0epv"
+EventController="*uid://c7vx8p2gjnyoh"
+GameController="*uid://b4ytttfakv76g"
 
 [display]
 
